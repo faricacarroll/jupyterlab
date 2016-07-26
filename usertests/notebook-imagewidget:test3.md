@@ -4,6 +4,10 @@
 **Familiarity with Jupyter:** Regular User  
 **Link to video:**  
 
+# Issues with interface
+
+* Add a switch kernel dropdown on notebook toolbar
+
 # Notes
 ## Notebook
 
@@ -60,6 +64,4 @@
 * Add a scratch pad cell
 * Add variables that are declared inside the notebook (should be borrowed from the matlab world)
 
-# Issues with interface
 
-* Add a switch kernel dropdown on notebook toolbar
