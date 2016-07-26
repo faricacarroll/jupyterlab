@@ -1,5 +1,6 @@
 **What is being tested:** Notebook and ImageWidget  
 **Date/Time:** 07/15/2016 11-11:30pm  
+**Participant Initials:** DS  
 **Familarity with Jupyter:** Regular user, astronomy purposes  
 **Link to video:**  
 
