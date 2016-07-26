@@ -1,7 +1,7 @@
 **What is being tested:** Notebook and ImageWidget  
 **Date/Time:** 7/15/16 9:40-10:10am  
 **Participant Initials:** GO  
-**Familarity with Jupyter:** Worked with notebooks before, but not Jupyterlab  
+**Familiarity with Jupyter:** Worked with notebooks before, but not Jupyterlab  
 **Link to video:**  
 
 # Issues with interface
