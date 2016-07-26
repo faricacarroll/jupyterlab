@@ -27,7 +27,7 @@
    * Clicks on them 
 * Try deleting the first cell
    * Scrolls through command palette 
-   * Uses “cut,” which deletes more cells than he intended :( 
+   * Uses “cut” which deletes more cells than he intended 
 * Now delete all the cells at once 
    * Says he never figured out how to do that in the notebook, he wants to be able to select all cells at once 
    * Prompt: “shift arrow keys”
