@@ -62,6 +62,6 @@
 # Comments
 
 * Add a scratch pad cell
-* Add variables that are declared inside the notebook (should be borrowed from the matlab world)
+* Add variables that are declared inside the notebook (should be borrowed from the Natlab world)
 
 
