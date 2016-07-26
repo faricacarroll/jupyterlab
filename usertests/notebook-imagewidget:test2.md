@@ -4,6 +4,13 @@
 **Familarity with Jupyter:** Worked with notebooks before, but not Jupyterlab  
 **Link to video:**  
 
+# Issues with interface:
+
+* Have an indicator of when files are saved
+* Improve command palette usability
+* Include original notebook arrows in jupyterlab notebook toolbar to move cells up and down
+* Include a delete icon on the top toolbar
+* 
 # Notes
 
 ## Notebook
@@ -63,9 +70,4 @@
 
 "“Having the commands in the side under “commands” is not intuitive. I don’t want to have to scroll through a bunch of commands - it should be simpler than that.”
 
-# Issues with interface:
 
-* Have an indicator of when files are saved
-* Improve command palette usability
-* Include original notebook arrows in jupyterlab notebook toolbar to move cells up and down
-* Include a delete icon on the top toolbar
