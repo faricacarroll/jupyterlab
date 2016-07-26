@@ -4,6 +4,12 @@
 **Familarity with Jupyter:** Regular user, astronomy purposes  
 **Link to video:**  
 
+# Issues with interface
+
+* Create a more "context sensitive" command palette
+* Create a little module with a function that a user that can easily put into new notebooks (grab multiple functions at once from one notebook to another)
+
+
 # Notes
 
 ## Notebook
@@ -57,8 +63,3 @@
    * Wants there to be a box zoom 
    * Prompt: “use the command palette” 
    * Success! 
-
-# Issues with interface
-
-* Create a more "context sensitive" command palette
-* Create a little module with a function that a user that can easily put into new notebooks (grab multiple functions at once from one notebook to another)
