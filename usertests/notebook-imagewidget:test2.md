@@ -10,7 +10,8 @@
 * Improve command palette usability
 * Include original notebook arrows in jupyterlab notebook toolbar to move cells up and down
 * Include a delete icon on the top toolbar
-* 
+
+
 # Notes
 
 ## Notebook
