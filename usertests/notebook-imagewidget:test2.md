@@ -4,7 +4,7 @@
 **Familarity with Jupyter:** Worked with notebooks before, but not Jupyterlab  
 **Link to video:**  
 
-# Issues with interface:
+# Issues with interface
 
 * Have an indicator of when files are saved
 * Improve command palette usability
